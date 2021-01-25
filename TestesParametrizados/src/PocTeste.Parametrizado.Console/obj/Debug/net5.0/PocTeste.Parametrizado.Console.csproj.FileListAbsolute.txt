@@ -1,0 +1,16 @@
+C:\Labs\TestesAutomatizadosXUnit\TestesParametrizados\src\PocTeste.Parametrizado.Console\obj\Debug\net5.0\PocTeste.Parametrizado.Console.csprojAssemblyReference.cache
+C:\Labs\TestesAutomatizadosXUnit\TestesParametrizados\src\PocTeste.Parametrizado.Console\obj\Debug\net5.0\PocTeste.Parametrizado.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Labs\TestesAutomatizadosXUnit\TestesParametrizados\src\PocTeste.Parametrizado.Console\obj\Debug\net5.0\PocTeste.Parametrizado.Console.AssemblyInfoInputs.cache
+C:\Labs\TestesAutomatizadosXUnit\TestesParametrizados\src\PocTeste.Parametrizado.Console\obj\Debug\net5.0\PocTeste.Parametrizado.Console.AssemblyInfo.cs
+C:\Labs\TestesAutomatizadosXUnit\TestesParametrizados\src\PocTeste.Parametrizado.Console\obj\Debug\net5.0\PocTeste.Parametrizado.Console.csproj.CoreCompileInputs.cache
+C:\Labs\TestesAutomatizadosXUnit\TestesParametrizados\src\PocTeste.Parametrizado.Console\bin\Debug\net5.0\PocTeste.Parametrizado.Console.exe
+C:\Labs\TestesAutomatizadosXUnit\TestesParametrizados\src\PocTeste.Parametrizado.Console\bin\Debug\net5.0\PocTeste.Parametrizado.Console.deps.json
+C:\Labs\TestesAutomatizadosXUnit\TestesParametrizados\src\PocTeste.Parametrizado.Console\bin\Debug\net5.0\PocTeste.Parametrizado.Console.runtimeconfig.json
+C:\Labs\TestesAutomatizadosXUnit\TestesParametrizados\src\PocTeste.Parametrizado.Console\bin\Debug\net5.0\PocTeste.Parametrizado.Console.runtimeconfig.dev.json
+C:\Labs\TestesAutomatizadosXUnit\TestesParametrizados\src\PocTeste.Parametrizado.Console\bin\Debug\net5.0\PocTeste.Parametrizado.Console.dll
+C:\Labs\TestesAutomatizadosXUnit\TestesParametrizados\src\PocTeste.Parametrizado.Console\bin\Debug\net5.0\ref\PocTeste.Parametrizado.Console.dll
+C:\Labs\TestesAutomatizadosXUnit\TestesParametrizados\src\PocTeste.Parametrizado.Console\bin\Debug\net5.0\PocTeste.Parametrizado.Console.pdb
+C:\Labs\TestesAutomatizadosXUnit\TestesParametrizados\src\PocTeste.Parametrizado.Console\obj\Debug\net5.0\PocTeste.Parametrizado.Console.dll
+C:\Labs\TestesAutomatizadosXUnit\TestesParametrizados\src\PocTeste.Parametrizado.Console\obj\Debug\net5.0\ref\PocTeste.Parametrizado.Console.dll
+C:\Labs\TestesAutomatizadosXUnit\TestesParametrizados\src\PocTeste.Parametrizado.Console\obj\Debug\net5.0\PocTeste.Parametrizado.Console.pdb
+C:\Labs\TestesAutomatizadosXUnit\TestesParametrizados\src\PocTeste.Parametrizado.Console\obj\Debug\net5.0\PocTeste.Parametrizado.Console.genruntimeconfig.cache
